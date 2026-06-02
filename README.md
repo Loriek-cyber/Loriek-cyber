@@ -33,14 +33,4 @@ Attualmente sono impegnato nel mio **progetto di tesi**, dove sto integrando **R
 
 ---
 
-### 📊 Statistiche GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loriek-cyber&show_icons=true&theme=radical" alt="Statistiche GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loriek-cyber&layout=compact&theme=radical" alt="Linguaggi più usati" />
-</p>
-
----
-
 📫 **Contattami:** Sentiti libero di esplorare i miei repository o di contattarmi per scambiare idee su tecnologia e innovazione!
