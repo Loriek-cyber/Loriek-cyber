@@ -60,6 +60,7 @@ Studente di **Informatica** di 22 anni presso l'**Università degli Studi di Sal
 </p>
 
 <!-- RECENT_COMMITS_START -->
+- `2026-10-16` — [`9483765`](https://github.com/Loriek-cyber/Loriek-cyber/commit/9483765f5c03e850cca35002eecd15867fda93b7) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: style(profile): apply dual-tone dark blue and green to all elements and ...
 - `2026-10-16` — [`18db196`](https://github.com/Loriek-cyber/Loriek-cyber/commit/18db19609eeb9c6f1097333bfb51093c20dada10) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: style(profile): switch to blue & green theme, remove emojis, enhance ani...
 - `2026-10-16` — [`4559ee2`](https://github.com/Loriek-cyber/Loriek-cyber/commit/4559ee2439a4993bad44ff17b5fd72a92c887caf) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: fix(readme): encode XML ampersand and emoji in capsule-render banner
 - `2026-10-16` — [`034628c`](https://github.com/Loriek-cyber/Loriek-cyber/commit/034628c6fd70205da50048be6e1e9c506e56fc85) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: feat(profile): modernize README with commit history, live stats and GitH...
@@ -67,7 +68,6 @@ Studente di **Informatica** di 22 anni presso l'**Università degli Studi di Sal
 - `2026-09-24` — [`d3d4493`](https://github.com/Loriek-cyber/onlystream/commit/d3d4493dc2ec36c025fffdb00707584227c9a4c4) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: removed dot_env becouse with the change in Future&lt;void&gt; it goes bad
 - `2026-09-24` — [`7e67262`](https://github.com/Loriek-cyber/onlystream/commit/7e67262517c45887b54b8ca2ea7c1ffc47951637) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: few mods
 - `2026-09-24` — [`7b0e244`](https://github.com/Loriek-cyber/onlystream/commit/7b0e244d7e42f57cd6ce04111b5a217cf8ef79a7) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: hell
-- `2026-09-24` — [`588f375`](https://github.com/Loriek-cyber/onlystream/commit/588f37569030ae28a2e7e65d193d55eec666c8c1) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: fuck you flutter
 <!-- RECENT_COMMITS_END -->
 
 > *Sincronizzazione automatizzata tramite GitHub Actions.*
