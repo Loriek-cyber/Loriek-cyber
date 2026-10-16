@@ -47,12 +47,11 @@ def fetch_recent_commits():
         repo_name = item.get("repository", {}).get("full_name", "")
         raw_msg = commit_info.get("message", "").split("\n")[0].strip()
         
-        # Clean message
         if len(raw_msg) > 75:
             raw_msg = raw_msg[:72] + "..."
         clean_msg = raw_msg.replace("<", "&lt;").replace(">", "&gt;")
         repo_url = f"https://github.com/{repo_name}"
-        lines.append(f"- 🚀 `{date_str}` — [`{sha}`]({url}) in **[{repo_name}]({repo_url})**: {clean_msg}")
+        lines.append(f"- `{date_str}` — [`{sha}`]({url}) in **[{repo_name}]({repo_url})**: {clean_msg}")
 
     return "\n".join(lines)
 
