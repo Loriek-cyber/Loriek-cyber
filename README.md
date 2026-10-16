@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Ciao,%20sono%20Arjel%20Buzi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Robotics%20%26%20Embedded%20•%20Software%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Ciao,%20sono%20Arjel%20Buzi!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Robotics%20%26amp;%20Embedded%20%E2%80%A2%20Software%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=CS+Student+%40+Universit%C3%A0+degli+Studi+di+Salerno;Robotics%2C+ROS+2+%26+ESP32+Explorer;Full-Stack+%26+Systems+Developer;Passionate+about+Performance%2C+C%2FC%2B%2B%2C+Rust%2C+Java" alt="Typing SVG" />
