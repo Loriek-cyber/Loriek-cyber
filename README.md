@@ -60,14 +60,14 @@ Studente di **Informatica** di 22 anni presso l'**Università degli Studi di Sal
 </p>
 
 <!-- RECENT_COMMITS_START -->
+- `2026-11-13` — [`682b42a`](https://github.com/Loriek-cyber/EReader/commit/682b42a6ae905564023c84cda3c691175168ec11) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: [gemini] implemented the design for from stich
+- `2026-11-13` — [`dc87e94`](https://github.com/Loriek-cyber/EReader/commit/dc87e9454c6cef96f72b60cb370f1b2422506564) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: first commit
 - `2026-10-26` — [`0bb86e1`](https://github.com/Loriek-cyber/onlystream/commit/0bb86e15965e83da296bda4ddcd5587c4c8bdd29) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: argon/cloude reformating
 - `2026-10-16` — [`9483765`](https://github.com/Loriek-cyber/Loriek-cyber/commit/9483765f5c03e850cca35002eecd15867fda93b7) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: style(profile): apply dual-tone dark blue and green to all elements and ...
 - `2026-10-16` — [`18db196`](https://github.com/Loriek-cyber/Loriek-cyber/commit/18db19609eeb9c6f1097333bfb51093c20dada10) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: style(profile): switch to blue & green theme, remove emojis, enhance ani...
 - `2026-10-16` — [`4559ee2`](https://github.com/Loriek-cyber/Loriek-cyber/commit/4559ee2439a4993bad44ff17b5fd72a92c887caf) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: fix(readme): encode XML ampersand and emoji in capsule-render banner
 - `2026-10-16` — [`034628c`](https://github.com/Loriek-cyber/Loriek-cyber/commit/034628c6fd70205da50048be6e1e9c506e56fc85) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: feat(profile): modernize README with commit history, live stats and GitH...
 - `2026-09-24` — [`f09fe56`](https://github.com/Loriek-cyber/onlystream/commit/f09fe56f5be5c0804db69b88e3686a8453820fc3) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: modified the constant handler and modified the workflows
-- `2026-09-24` — [`d3d4493`](https://github.com/Loriek-cyber/onlystream/commit/d3d4493dc2ec36c025fffdb00707584227c9a4c4) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: removed dot_env becouse with the change in Future&lt;void&gt; it goes bad
-- `2026-09-24` — [`7e67262`](https://github.com/Loriek-cyber/onlystream/commit/7e67262517c45887b54b8ca2ea7c1ffc47951637) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: few mods
 <!-- RECENT_COMMITS_END -->
 
 > *Sincronizzazione automatizzata tramite GitHub Actions.*
