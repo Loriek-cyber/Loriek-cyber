@@ -60,6 +60,7 @@ Studente di **Informatica** di 22 anni presso l'**Università degli Studi di Sal
 </p>
 
 <!-- RECENT_COMMITS_START -->
+- `2026-11-13` — [`308f381`](https://github.com/Loriek-cyber/EReader/commit/308f381907027cf6bf02fc57a8dfa1ebec8648d7) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: [savepoint] la mainactivity è stata impostata come la sezione delle libr...
 - `2026-11-13` — [`682b42a`](https://github.com/Loriek-cyber/EReader/commit/682b42a6ae905564023c84cda3c691175168ec11) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: [gemini] implemented the design for from stich
 - `2026-11-13` — [`dc87e94`](https://github.com/Loriek-cyber/EReader/commit/dc87e9454c6cef96f72b60cb370f1b2422506564) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: first commit
 - `2026-10-26` — [`0bb86e1`](https://github.com/Loriek-cyber/onlystream/commit/0bb86e15965e83da296bda4ddcd5587c4c8bdd29) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: argon/cloude reformating
@@ -67,7 +68,6 @@ Studente di **Informatica** di 22 anni presso l'**Università degli Studi di Sal
 - `2026-10-16` — [`18db196`](https://github.com/Loriek-cyber/Loriek-cyber/commit/18db19609eeb9c6f1097333bfb51093c20dada10) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: style(profile): switch to blue & green theme, remove emojis, enhance ani...
 - `2026-10-16` — [`4559ee2`](https://github.com/Loriek-cyber/Loriek-cyber/commit/4559ee2439a4993bad44ff17b5fd72a92c887caf) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: fix(readme): encode XML ampersand and emoji in capsule-render banner
 - `2026-10-16` — [`034628c`](https://github.com/Loriek-cyber/Loriek-cyber/commit/034628c6fd70205da50048be6e1e9c506e56fc85) in **[Loriek-cyber/Loriek-cyber](https://github.com/Loriek-cyber/Loriek-cyber)**: feat(profile): modernize README with commit history, live stats and GitH...
-- `2026-09-24` — [`f09fe56`](https://github.com/Loriek-cyber/onlystream/commit/f09fe56f5be5c0804db69b88e3686a8453820fc3) in **[Loriek-cyber/onlystream](https://github.com/Loriek-cyber/onlystream)**: modified the constant handler and modified the workflows
 <!-- RECENT_COMMITS_END -->
 
 > *Sincronizzazione automatizzata tramite GitHub Actions.*
