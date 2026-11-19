@@ -101,7 +101,7 @@ Il mio nome è Arjel buzi sono uno studente di informatica del terzo anno, sono 
 
 <div align="center">
   <p><strong>Distribuzione Temporale dei Commit</strong></p>
-  <img src="https://ghchart.rshah.org/Loriek-cyber" alt="Loriek-cyber Commit Heatmap" width="100%" />
+  <img src="https://github-contributions-api.deno.dev/Loriek-cyber.svg?scheme=amber&theme=dark" alt="Loriek-cyber Commit Heatmap" width="100%" />
 </div>
 
 <br />
