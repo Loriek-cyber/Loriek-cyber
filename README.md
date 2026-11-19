@@ -34,8 +34,8 @@ Orientato verso l'**ingegneria del software**, la **robotica distribuita**, i **
 
 <table>
   <tr>
-    <th width="50%">Linguaggi</th>
-    <th width="50%">Robotica &amp; Sistemi Embedded</th>
+    <th width="60%">Linguaggi</th>
+    <th width="60%">Robotica &amp; Sistemi Embedded</th>
   </tr>
   <tr>
     <td align="center" valign="middle">
@@ -51,6 +51,8 @@ Orientato verso l'**ingegneria del software**, la **robotica distribuita**, i **
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="36" alt="Bash" title="Bash" />
+      &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/latex/008080" height="36" alt="LaTeX" title="LaTeX" />
       <br /><br />
     </td>
     <td align="center" valign="middle">
@@ -82,7 +84,6 @@ Orientato verso l'**ingegneria del software**, la **robotica distribuita**, i **
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="36" alt="CMake" title="CMake" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/latex/008080" height="36" alt="LaTeX" title="LaTeX" />
       <br /><br />
     </td>
   </tr>
@@ -100,7 +101,7 @@ Orientato verso l'**ingegneria del software**, la **robotica distribuita**, i **
 | **[CPSM](https://github.com/Loriek-cyber/CPSM)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="24" alt="Python" title="Python" /> | Piattaforma desktop per l'elaborazione e visualizzazione statistica dei dati sulla sicurezza stradale. |
 | **[RustOmni](https://github.com/Loriek-cyber/RustOmni)** | <img src="https://cdn.simpleicons.org/rust/DEA584" height="24" alt="Rust" title="Rust" /> | Sperimentazioni su calcolo concorrente, sicurezza della memoria e performance elevate in Rust. |
 | **[onlystream](https://github.com/Loriek-cyber/onlystream)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="24" alt="Dart" title="Dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="24" alt="Flutter" title="Flutter" /> | Applicazione multimediale per lo streaming con interfaccia cross-platform e gestione asincrona delle sorgenti. |
-| **[ModuLink](https://github.com/Loriek-cyber/ModuLink)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" alt="Java" title="Java" /> | Soluzione SaaS enterprise modulare per l'orchestrazione flessibile di workflow aziendali. |
+| **[ModuLink](https://github.com/Loriek-cyber/ModuLink)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="24" alt="Spring Boot" title="Spring Boot" />  | Soluzione SaaS enterprise modulare per l'orchestrazione flessibile di workflow aziendali. |
 
 ---
 
