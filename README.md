@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://wa.me/INSERISCI_NUMERO" target="_blank">
+  <a href="https://wa.me/+393755676630" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/INSERISCI_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/arjel.buzi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://INSERISCI_TUO_SITO.com" target="_blank">
+  <a href="https://loriekpages.arjel-buzi1.workers.dev" target="_blank">
     <img src="https://img.shields.io/badge/Sito_Web-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sito Web" />
   </a>
 </div>
