@@ -16,7 +16,11 @@
 
 <!-- Sezione Immagine HTML: sostituisci "src" con il percorso locale (es. ./assets/banner.png) o un URL pubblico -->
 <div align="center">
-  <img src="./assets/banner.png" alt="Arjel Buzi Banner" width="100%" />
+  <img 
+    src="./assets/avatar.jpeg" 
+    alt="Arjel Buzi Banner" 
+    style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" 
+  />
 </div>
 
 <div align="center">
@@ -99,7 +103,6 @@ Orientato verso l'**ingegneria del software**, la **robotica distribuita**, i **
 | **[OmniRide](https://github.com/Loriek-cyber/OmniRide)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="24" alt="Spring Boot" title="Spring Boot" /> | Sistema web per l'ottimizzazione del trasporto pubblico urbano con gestione rotte e orari (UNISA). |
 | **[EasyNote](https://github.com/Loriek-cyber/EasyNote)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="24" alt="C#" title="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="24" alt=".NET WPF" title=".NET WPF" /> <img src="https://cdn.simpleicons.org/latex/008080" height="24" alt="LaTeX" title="LaTeX" /> | Applicativo desktop per stesura di appunti scientifici con rendering integrato LaTeX e syntax highlighting. |
 | **[CPSM](https://github.com/Loriek-cyber/CPSM)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="24" alt="Python" title="Python" /> | Piattaforma desktop per l'elaborazione e visualizzazione statistica dei dati sulla sicurezza stradale. |
-| **[RustOmni](https://github.com/Loriek-cyber/RustOmni)** | <img src="https://cdn.simpleicons.org/rust/DEA584" height="24" alt="Rust" title="Rust" /> | Sperimentazioni su calcolo concorrente, sicurezza della memoria e performance elevate in Rust. |
 | **[onlystream](https://github.com/Loriek-cyber/onlystream)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="24" alt="Dart" title="Dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="24" alt="Flutter" title="Flutter" /> | Applicazione multimediale per lo streaming con interfaccia cross-platform e gestione asincrona delle sorgenti. |
 | **[ModuLink](https://github.com/Loriek-cyber/ModuLink)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="24" alt="Spring Boot" title="Spring Boot" />  | Soluzione SaaS enterprise modulare per l'orchestrazione flessibile di workflow aziendali. |
 
