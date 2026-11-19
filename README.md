@@ -14,23 +14,12 @@
 
 <br />
 
-<!-- Sezione Immagine HTML: sostituisci "src" con il percorso locale (es. ./assets/banner.png) o un URL pubblico -->
-<div align="center">
-  <img 
-    src="./assets/avatar.jpeg" 
-    alt="Arjel Buzi Banner" 
-    style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" 
-  />
-</div>
 
 <div align="center">
-  <h1>Arjel Buzi</h1>
   <h3>Studente di Informatica — Università degli Studi di Salerno</h3>
 </div>
 
-Orientato verso l'**ingegneria del software**, la **robotica distribuita**, i **sistemi embedded** e il **calcolo ad alte prestazioni**.
-
-- **Progetto di Tesi:** Integrazione e comunicazione in tempo reale tra nodi **ROS 2** e microcontrollori **ESP32** (**micro-ROS**) per il controllo di sensori e attuatori.
+Il mio nome è Arjel buzi sono uno studente di informatica del terzo anno, sono un grande appasionato di motor sport e di video giochi.
 
 ---
 
