@@ -60,14 +60,14 @@ Studente di **Informatica** di 22 anni presso l'**Università degli Studi di Sal
 </p>
 
 <!-- RECENT_COMMITS_START -->
+- `2026-11-19` — [`e9e1e07`](https://github.com/Loriek-cyber/agymcp/commit/e9e1e07ab7b6c04f80904e5917618158faece599) in **[Loriek-cyber/agymcp](https://github.com/Loriek-cyber/agymcp)**: [minor] Aggiungi auto-updater GitHub Releases e GitHub Action a 3 fasi
+- `2026-11-19` — [`7010050`](https://github.com/Loriek-cyber/EReader/commit/7010050548a3eb808f8e2e31efc2156032f12a4f) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: subsection created
+- `2026-11-19` — [`0ae2c3c`](https://github.com/Loriek-cyber/agymcp/commit/0ae2c3c6618650124c73c80bdb56de4916ea2c6d) in **[Loriek-cyber/agymcp](https://github.com/Loriek-cyber/agymcp)**: Initial commit: agymcp Antigravity MCP Installer & Manager
+- `2026-11-19` — [`9491c7d`](https://github.com/Loriek-cyber/EReader/commit/9491c7d73b2a241be3eaa39128e4ff6f08902325) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: audio point of return working
+- `2026-11-19` — [`6e8a327`](https://github.com/Loriek-cyber/EReader/commit/6e8a327062fda286273f49639a2662169fc3b82a) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: va vanculo
 - `2026-11-17` — [`8d087db`](https://github.com/Loriek-cyber/EReader/commit/8d087db508469d9cbb4e49af7b35a18b32504782) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: removed useless button
 - `2026-11-17` — [`85caf98`](https://github.com/Loriek-cyber/EReader/commit/85caf98579611184da4c6164240338da7a6b5c5e) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: changed logo
 - `2026-11-17` — [`a3fb95b`](https://github.com/Loriek-cyber/EReader/commit/a3fb95b0c668c37e2118ed99f9117d3ed7e00744) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: fixed few problem with the chapter sudividation in audiobooks
-- `2026-11-17` — [`732b9d4`](https://github.com/Loriek-cyber/EReader/commit/732b9d4832f52e09191d57b9bdcde8ad53a83a63) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: it should work
-- `2026-11-17` — [`5f93517`](https://github.com/Loriek-cyber/EReader/commit/5f935179ce0deb85a8fdc330818c48b6c0ff52a1) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: i am lazy
-- `2026-11-17` — [`fb6f72f`](https://github.com/Loriek-cyber/EReader/commit/fb6f72f9247e3e739beaa30a81d608f122fc0c2f) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: the ai version was shitty
-- `2026-11-16` — [`3404a9a`](https://github.com/Loriek-cyber/EReader/commit/3404a9a9262fd43232bb60d21349166fd1565546) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: working
-- `2026-11-15` — [`36d4623`](https://github.com/Loriek-cyber/EReader/commit/36d4623ff3b719ec32f228c0c7e7bd2ffd28a646) in **[Loriek-cyber/EReader](https://github.com/Loriek-cyber/EReader)**: added test_files
 <!-- RECENT_COMMITS_END -->
 
 > *Sincronizzazione automatizzata tramite GitHub Actions.*
